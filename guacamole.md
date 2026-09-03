@@ -3,5 +3,5 @@
 * 2 avocados
 * lime
 * salt
-*lemon
+* lemon
 ## Instructions
